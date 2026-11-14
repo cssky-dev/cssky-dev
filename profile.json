@@ -1,8 +1,8 @@
 {
   "version": 1,
   "login": "cssky-dev",
-  "seed": "#E9E5C2",
-  "seedFromAvatar": true,
+  "seed": "#5C7CFF",
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
