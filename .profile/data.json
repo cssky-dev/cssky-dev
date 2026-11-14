@@ -1,7 +1,7 @@
 {
- "key": "aa54709b",
+ "key": "b5c8699b",
  "stars": 0,
- "contributions": 40,
+ "contributions": 42,
  "repos": 5,
  "followers": 0,
  "languages": [
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 9,
+    "c": 11,
     "day": 14,
     "today": true
    }
@@ -155,7 +155,7 @@
   {
    "name": "Serpantinum-Infinite-Desktop-Edition",
    "url": "https://github.com/cssky-dev/Serpantinum-Infinite-Desktop-Edition",
-   "text": "An Infinite Desktop for Compositors",
+   "text": "A infinite desktop for Compositors",
    "fork": false,
    "stars": 0,
    "language": "QML",
@@ -202,7 +202,7 @@
   {
    "name": "Serpantinum-Infinite-Desktop-Edition",
    "url": "https://github.com/cssky-dev/Serpantinum-Infinite-Desktop-Edition",
-   "text": "An Infinite Desktop for Compositors",
+   "text": "A infinite desktop for Compositors",
    "fork": false,
    "stars": 0,
    "language": "QML",
