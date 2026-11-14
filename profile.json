@@ -1,31 +1,33 @@
 {
   "version": 1,
   "login": "cssky-dev",
-  "seed": "#5C7CFF",
-  "seedFromAvatar": false,
+  "seed": "#E9E5C2",
+  "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
   "order": [
     "hero",
+    "wave",
     "socials",
+    "about",
+    "stack",
+    "projects",
     "stats",
     "streak",
-    "wave",
-    "projects",
-    "buttons",
-    "stack",
-    "about"
+    "buttons"
   ],
   "hidden": [
+    "streak",
+    "stats",
+    "projects",
     "stack",
-    "buttons",
     "about"
   ],
   "hero": {
-    "greeting": "Greetings:",
-    "name": "cssky-dev",
-    "subtitle": "you feature has deesigned your own way",
+    "greeting": "Greetine, I'm",
+    "name": "CSSKY",
+    "subtitle": "Your greatest developer",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": []
@@ -88,37 +90,20 @@
   },
   "projects": {
     "source": "pinned",
-    "repos": [
-      "Serpantinum-Infinite-Desktop-Edition",
-      "Serpantinum-CRK-Moonlight-Theme",
-      "Serpantinum-CRK-Whitelily-Theme"
-    ],
-    "overrides": {
-      "Serpantinum-CRK-Whitelily-Theme": {
-        "text": "Your desktop theme based on crk (devsisters)",
-        "shape": "cookie12"
-      },
-      "Serpantinum-CRK-Moonlight-Theme": {
-        "text": "Your desktop theme based on crk (devsisters)",
-        "shape": "cookie12"
-      },
-      "Serpantinum-Infinite-Desktop-Edition": {
-        "text": "A infinite desktop for Compositors"
-        "shape": "cookie12"
-      }
-    },
-    "empty": "Repos",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
     "fork": "Fork"
   },
   "stats": {
-    "title": "Stats",
-    "stars": "Stars ",
-    "contributions": "Contributions ",
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
     "repos": "Public repos",
     "followers": "Followers",
-    "calendar": "Commits progress",
+    "calendar": "Last 21 days",
     "weekdays": "SMTWTFS",
-    "languages": "Coded language programms from the year",
+    "languages": "Languages across my repositories",
     "showLanguages": true
   },
   "streak": {
@@ -131,11 +116,11 @@
     "items": [
       {
         "icon": "brand:youtube",
-        "url": "https://www.youtube.com/@CrunchySkyOffical"
+        "url": "https://youtube.com/@Crunchyskyoffical"
       },
       {
         "icon": "brand:tiktok",
-        "url": "https://www.tiktok.com/@crunchy.sky"
+        "url": "https://tiktok.com/@crunchy.sky"
       }
     ],
     "variant": "chip",
@@ -143,19 +128,7 @@
     "card": true
   },
   "buttons": {
-    "items": [
-      {
-        "icon": "language",
-        "label": "My website",
-        "url": "",
-        "style": "filled"
-      },
-      {
-        "icon": "book_2",
-        "label": "All repositories",
-        "url": "",
-        "style": "tonal"
-      }
-    ]
+    "items": [],
+    "card": true
   }
 }
