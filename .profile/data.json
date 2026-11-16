@@ -1,13 +1,13 @@
 {
- "key": "3193a591",
+ "key": "2cd54e7d",
  "stars": 0,
- "contributions": 54,
+ "contributions": 28,
  "repos": 5,
  "followers": 0,
  "languages": [
   [
    "QML",
-   4855582
+   4846274
   ],
   [
    "JavaScript",
@@ -15,7 +15,7 @@
   ],
   [
    "Python",
-   130989
+   130991
   ],
   [
    "GLSL",
@@ -31,7 +31,7 @@
   ],
   [
    "Lua",
-   16762
+   16986
   ]
  ],
  "days": [
@@ -79,12 +79,12 @@
     "today": false
    },
    {
-    "c": 9,
+    "c": 1,
     "day": 9,
     "today": false
    },
    {
-    "c": 1,
+    "c": 0,
     "day": 10,
     "today": false
    },
@@ -99,23 +99,27 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 0,
     "day": 13,
     "today": false
    },
    {
-    "c": 12,
+    "c": 6,
     "day": 14,
     "today": false
    }
   ],
   [
    {
-    "c": 11,
+    "c": 2,
     "day": 15,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 16,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -128,15 +132,6 @@
   "longest": 3
  },
  "pins": [
-  {
-   "name": "Serpantinum-Infinite-Desktop-Edition",
-   "url": "https://github.com/cssky-dev/Serpantinum-Infinite-Desktop-Edition",
-   "text": "A infinite desktop for Compositors",
-   "fork": false,
-   "stars": 0,
-   "language": "QML",
-   "topics": []
-  },
   {
    "name": "Serpantinum-CRK-Moonlight-Theme",
    "url": "https://github.com/cssky-dev/Serpantinum-CRK-Moonlight-Theme",
@@ -158,6 +153,15 @@
  ],
  "all": [
   {
+   "name": "Serpantinum-Infinite-Desktop-Edition",
+   "url": "https://github.com/cssky-dev/Serpantinum-Infinite-Desktop-Edition",
+   "text": "An infinite desktop for compositors",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
    "name": "cssky-dev",
    "url": "https://github.com/cssky-dev/cssky-dev",
    "text": "My GitHub profile",
@@ -171,15 +175,6 @@
    "url": "https://github.com/cssky-dev/serpantinum",
    "text": "A shell for wayland compositors",
    "fork": true,
-   "stars": 0,
-   "language": "QML",
-   "topics": []
-  },
-  {
-   "name": "Serpantinum-Infinite-Desktop-Edition",
-   "url": "https://github.com/cssky-dev/Serpantinum-Infinite-Desktop-Edition",
-   "text": "A infinite desktop for Compositors",
-   "fork": false,
    "stars": 0,
    "language": "QML",
    "topics": []
