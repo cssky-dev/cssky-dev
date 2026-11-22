@@ -1,77 +1,11 @@
 {
- "key": "b994be25",
+ "key": "48ed5b34",
  "stars": 0,
- "contributions": 33,
+ "contributions": 25,
  "repos": 4,
  "followers": 0,
- "languages": [
-  [
-   "QML",
-   4845508
-  ],
-  [
-   "JavaScript",
-   404161
-  ],
-  [
-   "Python",
-   130991
-  ],
-  [
-   "GLSL",
-   101019
-  ],
-  [
-   "Nix",
-   26503
-  ],
-  [
-   "CSS",
-   18057
-  ],
-  [
-   "Lua",
-   16986
-  ]
- ],
+ "languages": [],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 1,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 2,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 3,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 1,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 7,
-    "today": false
-   }
-  ],
   [
    {
     "c": 0,
@@ -116,12 +50,12 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 0,
     "day": 16,
     "today": false
    },
    {
-    "c": 3,
+    "c": 0,
     "day": 17,
     "today": false
    },
@@ -141,10 +75,23 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 0,
     "day": 21,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
@@ -169,25 +116,16 @@
    "stars": 0,
    "language": null,
    "topics": []
-  },
-  {
-   "name": "Serpantinum-Infinite-Desktop-Edition",
-   "url": "https://github.com/cssky-dev/Serpantinum-Infinite-Desktop-Edition",
-   "text": "An Infinite Desktop for Compositors",
-   "fork": false,
-   "stars": 0,
-   "language": "QML",
-   "topics": []
   }
  ],
  "all": [
   {
    "name": "Serpantinum-Infinite-Desktop-Edition",
    "url": "https://github.com/cssky-dev/Serpantinum-Infinite-Desktop-Edition",
-   "text": "An Infinite Desktop for Compositors",
+   "text": "A infinite desktop shell for Wayland compositors",
    "fork": false,
    "stars": 0,
-   "language": "QML",
+   "language": null,
    "topics": []
   },
   {
