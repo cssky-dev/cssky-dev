@@ -1,10 +1,39 @@
 {
- "key": "48ed5b34",
+ "key": "d63338e9",
  "stars": 0,
- "contributions": 25,
+ "contributions": 26,
  "repos": 4,
  "followers": 0,
- "languages": [],
+ "languages": [
+  [
+   "QML",
+   4861713
+  ],
+  [
+   "JavaScript",
+   404470
+  ],
+  [
+   "Python",
+   130991
+  ],
+  [
+   "GLSL",
+   115870
+  ],
+  [
+   "Nix",
+   26503
+  ],
+  [
+   "CSS",
+   18057
+  ],
+  [
+   "Lua",
+   16986
+  ]
+ ],
  "days": [
   [
    {
@@ -82,7 +111,7 @@
   ],
   [
    {
-    "c": 1,
+    "c": 2,
     "day": 22,
     "today": true
    },
@@ -116,6 +145,15 @@
    "stars": 0,
    "language": null,
    "topics": []
+  },
+  {
+   "name": "Serpantinum-Infinite-Desktop-Edition",
+   "url": "https://github.com/cssky-dev/Serpantinum-Infinite-Desktop-Edition",
+   "text": "A infinite desktop shell for Wayland compositors",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
   }
  ],
  "all": [
@@ -125,7 +163,7 @@
    "text": "A infinite desktop shell for Wayland compositors",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "QML",
    "topics": []
   },
   {
